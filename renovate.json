@@ -2,7 +2,7 @@
   "lockFileMaintenance": {
     "enabled": true,
     "automergeType": "pr",
-    "platformAutomerge": true
+    "platformAutomerge": true,
     "automerge": true
   },
   "packageRules": [
